@@ -1,0 +1,26 @@
+Toby Frick
+Grinnell, IA
+October 21 2022
+
+Current Projects: Chess Vision - CompSci Shiny App - Personal Website
+
+Today is the start of my software developer journal. This is not, however, the start of my software developer journal.
+I think it's best to try to record everything I have done along my dev journey so far. I started in Spring 2021 learning
+to code in Racket and C. Fall 2021 I learned Java and it became my favorite coding language. I learned how to make GUIs
+and even created a poker app for android that calculates poker statistics for beginner poker players. That repository is
+here if you want to check it out. Everything I'm going to be working on will be here on this github account for that matter.
+
+Currently, I am taking a computer vision course where I am learning MatLab. I'm learning a lot and am going to work with my
+classmate Will on a project that uses computer vision techniques to identify chess pieces and positions given an image of a
+chess board. I am also taking a Software Design and Development class where I will be making an R shiny web app to provide a
+hub for information about the Computer Science major at Grinnell College (where I go to school). These will be my first
+experiences with collaborative programming, so I'm excited to learn more about that and use github to help.
+
+In my free time, I am starting to learn HTML and CSS so that I can begin working on a personal website. I want this to be a
+space that can grow and adapt as I do (much like this journal).
+
+Next Summer I'll be an software dev intern at Epic Systems up in Madison, WI. Not sure exactly what I'll be doing, but really
+excited nonetheless.
+
+Until Tomorrow,
+Toby
