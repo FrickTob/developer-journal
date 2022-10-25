@@ -1,0 +1,14 @@
+Toby Frick
+Grinnell, IA
+10/23/2022
+
+Current Projects: Chess Vision - CompSci Shiny App - Personal Website
+
+Not much to report today. I worked a little more on my website. I think
+I have a really nice start using pure HTML/CSS and need to start learning
+javascript to really bring it to the next level. Classes start tomorrow,
+so the other two projects I'm working on are going to move to the main
+burner.
+
+Until Tomorrow,
+Toby

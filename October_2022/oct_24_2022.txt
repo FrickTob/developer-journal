@@ -1,0 +1,18 @@
+Toby Frick
+Grinnell, IA
+10/24/2022
+
+Current Projects: Chess Vision - CompSci Shiny App - Personal Website - Poker Android App
+
+Looked back over the Poker Android App I built and deployed last summer and started to
+brainstorm ways to make the user input more intuitive. What I came up with is having a
+dropdown menu of all 52 cards to select from. Additionally, I can have an image that
+updates depending on the user input. The implementation was surprisingly easy and needed
+me to make a hash map with keys that matched a dropdown list option and values that match
+the corresponding image of a card. I also updated the button so that it calculates based
+on this new input. Still need to work on making the layout responsive to horizontal orientation
+and different screen sizes. Feeling more confident about my ability ot implement designs I think
+up and looking forward to working on it more.
+
+Until Tomorrow,
+Toby
