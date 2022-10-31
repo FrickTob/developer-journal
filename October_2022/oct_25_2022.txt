@@ -1,0 +1,15 @@
+Toby Frick
+Grinnell, IA
+10/25/2022
+
+Current Projects: Chess Vision - CompSci Shiny App - Personal Website - Poker Android App
+
+Didn't do a lot of work today on personal projects as it was a very busy day. However,
+I did write some MatLab code today in my Computer Vision class. We are working on
+creating structure from stereo vision. Depth is calculated by similar triangles
+and recording the displacement between matching features between two images.
+I'm really enjoying working with these computer vision concepts even though
+the math can get a little to complex for me to fully understand.
+
+Until Tomorrow,
+Toby

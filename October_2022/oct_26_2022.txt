@@ -1,0 +1,13 @@
+Toby Frick
+Grinnell, IA
+10/26/2022
+
+Current Projects: Chess Vision - CompSci Shiny App - Personal Website - Poker Android App
+
+Didn't write any code today, but I did some research into the Chess Vision project.
+Specifically, I read about hough transforms which can be used to detect lines in
+an edge detection image. I can use this hough transform to identify the chess grid and
+locate each square.
+
+Until Tomorrow,
+Toby

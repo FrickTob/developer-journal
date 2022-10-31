@@ -1,0 +1,14 @@
+Toby Frick
+Grinnell, IA
+10/26/2022
+
+Current Projects: Chess Vision - CompSci Shiny App - Personal Website - Poker Android App
+
+Today I worked on a Computer Vision assignment about inferring depth by stereo reconstruction.
+My partner and I got stuck for a very long time fiddling with little things until I realized we
+were using the wrong output from one of the functions we called that returned two different matrices.
+The rest of the lab followed quickly after that. This weekend, I want to work a little more
+on updating the UI in my Poker App.
+
+Until Tomorrow,
+Toby
