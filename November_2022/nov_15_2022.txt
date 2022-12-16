@@ -1,0 +1,14 @@
+Toby Frick
+Grinnell, IA
+11/14/2022
+
+Current Projects: Chess Vision - CompSci Shiny App - Personal Website - Poker Android App
+
+Today I learned about image segmentation techniques used to cluster segments of an image
+into categories. We also implemented a k-means clustering algorithm where we take an image
+and cluster the pixels into k different categories based on their RGB value similarities.
+
+I'm going to start doing some more Chess Vision work in the next few days on square extraction
+and a new technique my project partner Will is learning about where instead of using a CNN to
+identify individual pieces, we measure the height of the pieces and use their relative heights
+to identify the pieces.

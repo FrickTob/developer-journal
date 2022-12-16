@@ -1,0 +1,24 @@
+Toby Frick
+Grinnell, IA
+11/14/2022
+
+Current Projects: Chess Vision - CompSci Shiny App - Personal Website - Poker Android App
+
+It's been a while since I wrote a journal entry, so here's a summary of what has been going
+on since last I journaled. We have begun work in my Software Design and Development class
+on our group projects. The project I am assigned to is an app that provides career development
+resources for Computer Science students. Grinnell's CS departments doesn't have a large
+emphasis on industry, so this app is an attempt to bridge that gap and inform students
+on internships, research opportunities, alumni resources, and coding interview prep advice.
+
+We have also begun work on the Chess Vision project. Specifically, we have just finished
+correctly implementing a function that calculates the planar homography between an image of
+a chess board and a 'top down' view of a chess board. This homography calculation gives us
+a matrix which can convert points in a 'top down' view of a chess baord into the corresponding
+points in an image of a chess board. This technique can be used to identify and label baord squares
+in any image of a chess board. From there, we will crop out each square and try to identify the piece
+on that square using a convolutional nerual network.
+
+Work on my personal website and android app has been put on the back burner for the time being.
+I hope to start these projects back up again after this semester is over and I have more time
+in January.

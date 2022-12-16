@@ -1,0 +1,16 @@
+Toby Frick
+Grinnell, IA
+12/15/2022
+
+Current Projects: Blog Website
+
+Today is my last day of classwork and the day Will and I finally presented our Chess Computer Vision
+project. I'm extremely happy with the work we did over the course of this project to start from nothing
+and end with a working system. I haven't been writing many journal entries lately, but I want to 
+start writing them more frequently as I find they help clarify my thoughts and give me more direction
+with my career progress.
+
+Now that the chess project is finished, I want to focus on learning React more deeply by developing
+a personal blogging app project with user profiles so that people can do what I am doing right now 
+on the web. I'll have loads of free time over break, so it looks like there are lots of youtube
+videos in my future.
