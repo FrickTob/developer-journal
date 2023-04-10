@@ -1,0 +1,11 @@
+Toby Frick
+Amsterdam, Netherlands
+4/7/2023
+
+Current Projects: Personal Website - Networking Labs
+
+Since last I made a blog post, I have finished my Text Mining for AI class and I feel like I am one step closer to having a good understanding of different AI systems given this class and my previous computer vision class. I am now one week in to my computer networks class. I feel like this class will fill a huge piece of my computer science knowledge about how the software I build can be deployed and shared. 
+
+I am going to start working on my portfolio website once again as I have more free time than usual this term. I hope to get it into a sufficient state soon and then when I get home for the summer, I want to set up my raspberry pi to serve as a server to host this website. I think I can leverage my computer networks class to make that happen.
+
+Overall, I am feeling very competent in the bredth of my knowledge at various levels of abstraction and I want to start encorporating github copilot/gpt into my programming as I think things are leaning in that direction going forward.
