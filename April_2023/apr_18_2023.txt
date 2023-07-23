@@ -1,0 +1,13 @@
+Toby Frick
+Amsterdam, Netherlands
+4/18/2023
+
+Current Projects: Website Selenium Automation - Networking Labs
+
+Today is a big day for me. I just got an email describing my first paid CS gig. I'm interning at Epic this summer and my project for the summer is to make a calendar system to optimize the schedule of surgeons by making an iOS application. I've never build an iOS app before and I don't have an app, so I'm not sure how it's going to work out, but I'm sure everything is going to be fine. I have a lot of good ideas already.
+
+I just finished my personal website and am hosting it on github. Between now and my internship, I want to use selenium automation tools to make a tour guide that can take a user automatically to different parts of my website based on their input. Should keep be busy for the next few weeks hopefully!
+
+I am also working through some of my computer networks labs and just finished building our chat server that can relay messages to clients using the chat client software we made earlier on in the class.
+
+Overall, I am feeling really confident about my coding skills and my aptitude to learn new skills in the field very quickly. I am a little worried about the advent of powerful AI systems because it seems like I need to get a lot better at programming a lot faster in order to still be competitive in a market that might be shrinking because of the programming efficiency provided by these systems. Time will tell
